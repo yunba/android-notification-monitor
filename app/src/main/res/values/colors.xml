@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="yunba_console_bg">#C0000000</color>
+    <color name="yunba_screen_connect">#0F9A08</color>
+    <color name="yunba_danger">#ff0000</color>
+    <color name="yunba_success">#0F9A08</color>
+    <color name="yunba_info">#339BE6</color>
+    <color name="yunba_primary">#ffffff</color>
+    <color name="yunba_warning">#E67217</color>
+</resources>
